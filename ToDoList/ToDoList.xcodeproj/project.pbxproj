@@ -36,6 +36,7 @@
 		5F7D73602B6DA7E000BC3ACE /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7D735F2B6DA7E000BC3ACE /* RegisterViewViewModel.swift */; };
 		5F7D73622B6DA7EA00BC3ACE /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7D73612B6DA7EA00BC3ACE /* ToDoListItemViewViewModel.swift */; };
 		5F7D73642B6DA9E100BC3ACE /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7D73632B6DA9E100BC3ACE /* HeaderView.swift */; };
+		5F7D73682B6DAEBC00BC3ACE /* TLButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7D73672B6DAEBC00BC3ACE /* TLButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +86,7 @@
 		5F7D735F2B6DA7E000BC3ACE /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		5F7D73612B6DA7EA00BC3ACE /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
 		5F7D73632B6DA9E100BC3ACE /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		5F7D73672B6DAEBC00BC3ACE /* TLButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TLButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -226,6 +228,7 @@
 			isa = PBXGroup;
 			children = (
 				5F7D73632B6DA9E100BC3ACE /* HeaderView.swift */,
+				5F7D73672B6DAEBC00BC3ACE /* TLButton.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -378,6 +381,7 @@
 				5F7D73562B6DA7B500BC3ACE /* MainViewViewModel.swift in Sources */,
 				5F7D72FF2B6D9AC600BC3ACE /* ContentView.swift in Sources */,
 				5F7D73472B6DA6FF00BC3ACE /* ToDoListView.swift in Sources */,
+				5F7D73682B6DAEBC00BC3ACE /* TLButton.swift in Sources */,
 				5F7D73582B6DA7C000BC3ACE /* ProfileViewViewModel.swift in Sources */,
 				5F7D734E2B6DA72600BC3ACE /* RegisterView.swift in Sources */,
 				5F7D73452B6DA6F300BC3ACE /* ProfileView.swift in Sources */,
