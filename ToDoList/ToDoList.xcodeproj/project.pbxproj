@@ -35,6 +35,7 @@
 		5F7D735E2B6DA7DA00BC3ACE /* LoginViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7D735D2B6DA7DA00BC3ACE /* LoginViewViewModel.swift */; };
 		5F7D73602B6DA7E000BC3ACE /* RegisterViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7D735F2B6DA7E000BC3ACE /* RegisterViewViewModel.swift */; };
 		5F7D73622B6DA7EA00BC3ACE /* ToDoListItemViewViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7D73612B6DA7EA00BC3ACE /* ToDoListItemViewViewModel.swift */; };
+		5F7D73642B6DA9E100BC3ACE /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F7D73632B6DA9E100BC3ACE /* HeaderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +84,7 @@
 		5F7D735D2B6DA7DA00BC3ACE /* LoginViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewViewModel.swift; sourceTree = "<group>"; };
 		5F7D735F2B6DA7E000BC3ACE /* RegisterViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterViewViewModel.swift; sourceTree = "<group>"; };
 		5F7D73612B6DA7EA00BC3ACE /* ToDoListItemViewViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoListItemViewViewModel.swift; sourceTree = "<group>"; };
+		5F7D73632B6DA9E100BC3ACE /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,6 +183,7 @@
 				5F7D734B2B6DA71D00BC3ACE /* LoginView.swift */,
 				5F7D734D2B6DA72600BC3ACE /* RegisterView.swift */,
 				5F7D734F2B6DA74600BC3ACE /* ToDoListItemView.swift */,
+				5F7D73632B6DA9E100BC3ACE /* HeaderView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -361,6 +364,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5F7D73542B6DA78F00BC3ACE /* TodoListItem.swift in Sources */,
+				5F7D73642B6DA9E100BC3ACE /* HeaderView.swift in Sources */,
 				5F7D734C2B6DA71D00BC3ACE /* LoginView.swift in Sources */,
 				5F7D73602B6DA7E000BC3ACE /* RegisterViewViewModel.swift in Sources */,
 				5F7D73562B6DA7B500BC3ACE /* MainViewViewModel.swift in Sources */,
