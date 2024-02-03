@@ -197,10 +197,10 @@
 			children = (
 				5F7D73552B6DA7B500BC3ACE /* MainViewViewModel.swift */,
 				5F7D73572B6DA7C000BC3ACE /* ProfileViewViewModel.swift */,
-				5F7D73592B6DA7C700BC3ACE /* TodoListViewViewModel.swift */,
 				5F7D735B2B6DA7D100BC3ACE /* NewItemViewViewModel.swift */,
 				5F7D735D2B6DA7DA00BC3ACE /* LoginViewViewModel.swift */,
 				5F7D735F2B6DA7E000BC3ACE /* RegisterViewViewModel.swift */,
+				5F7D73592B6DA7C700BC3ACE /* TodoListViewViewModel.swift */,
 				5F7D73612B6DA7EA00BC3ACE /* ToDoListItemViewViewModel.swift */,
 			);
 			path = ViewModels;
