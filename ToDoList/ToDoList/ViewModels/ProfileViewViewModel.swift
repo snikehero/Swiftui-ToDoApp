@@ -13,4 +13,7 @@ class ProfileViewViewModel: ObservableObject {
         
     }
     
+    func toogleIsDone(item: ToDoListItem) {
+        
+    }
 }
